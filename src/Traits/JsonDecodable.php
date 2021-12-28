@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Traits;
+namespace Orka\Traits;
 
 
 use ReflectionClass;
